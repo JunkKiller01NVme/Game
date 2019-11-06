@@ -13,9 +13,165 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-11-06T11:05:03.119-07:00
+  lastUpdatedAtString: 2019-11-06T11:06:15.511-07:00
   initializedAtString: 2019-11-06T11:05:03.119-07:00
   log:
+  - commitID: d8a1d84ffd425b56ff1db549fdd1c4ee0bd54b25
+    mergeA: 
+    mergeB: 
+    authorName: Zach...THE DESTROYER
+    authorEmail: 37596461+JunkKiller01NVme@users.noreply.github.com
+    commitEmail: 37596461+JunkKiller01NVme@users.noreply.github.com
+    commitName: Zach...THE DESTROYER
+    summary: Added Skelly
+    description: 
+    timeString: 2019-11-06T11:06:13.000-07:00
+    commitTimeString: 2019-11-06T11:06:13.000-07:00
+    changes:
+    - path: New Unity Project\Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assembly-CSharp.csproj
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\EditorInstance.json
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\StateCache\Hierarchy\c3cd23-mainStage.json
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\StateCache\Hierarchy\c3cd23-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\c3cd23-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\StateCache\SceneView\0b3f42-mainStage.json
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\StateCache\SceneView\0b3f42-mainStage.json
+      projectPath: Library\StateCache\SceneView\0b3f42-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\assetDatabase3
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+      projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\fb\fbb1cb3a1d795cf44a61b54a0fee0f1f
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\fb\fbb1cb3a1d795cf44a61b54a0fee0f1f
+      projectPath: Library\metadata\fb\fbb1cb3a1d795cf44a61b54a0fee0f1f
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-1e4d66c3ff024b84691a6b99ff2e43da
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-1e4d66c3ff024b84691a6b99ff2e43da
+      projectPath: Temp\UnityTempFile-1e4d66c3ff024b84691a6b99ff2e43da
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-d702fdefc621aab48adfbd08823ecf6e
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-d702fdefc621aab48adfbd08823ecf6e
+      projectPath: Temp\UnityTempFile-d702fdefc621aab48adfbd08823ecf6e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\__Backupscenes\0.backup
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Temp\__Backupscenes\0.backup
+      projectPath: Temp\__Backupscenes\0.backup
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 1e304a3beb38466cc26719b8a66d51f599bdd2f9
     mergeA: 
     mergeB: 
