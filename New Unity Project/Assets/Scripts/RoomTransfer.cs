@@ -13,7 +13,7 @@ public class RoomTransfer : MonoBehaviour
     {
         
     }
-
+ int sad = 2;
     // Update is called once per frame
     void Update()
     {
