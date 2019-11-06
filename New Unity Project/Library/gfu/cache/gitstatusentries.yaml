@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-11-06T11:06:15.818-07:00
+  lastUpdatedAtString: 2019-11-06T11:08:40.031-07:00
   initializedAtString: 2019-11-06T11:04:57.905-07:00
   entries:
   - path: New Unity Project\Library\gfu\cache\branches.yaml
@@ -28,15 +28,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+  - path: New Unity Project\Temp\UnityTempFile-608b423f218bee349b79417c44902a99
+    fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-608b423f218bee349b79417c44902a99
+    projectPath: Temp\UnityTempFile-608b423f218bee349b79417c44902a99
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
