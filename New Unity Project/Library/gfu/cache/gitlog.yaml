@@ -13,9 +13,51 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-11-06T10:55:33.945-07:00
-  initializedAtString: 2019-11-06T10:49:05.872-07:00
+  lastUpdatedAtString: 2019-11-06T11:05:03.119-07:00
+  initializedAtString: 2019-11-06T11:05:03.119-07:00
   log:
+  - commitID: 1e304a3beb38466cc26719b8a66d51f599bdd2f9
+    mergeA: 
+    mergeB: 
+    authorName: Zach...THE DESTROYER
+    authorEmail: 37596461+JunkKiller01NVme@users.noreply.github.com
+    commitEmail: 37596461+JunkKiller01NVme@users.noreply.github.com
+    commitName: Zach...THE DESTROYER
+    summary: Is it fixed?
+    description: 
+    timeString: 2019-11-06T11:02:50.000-07:00
+    commitTimeString: 2019-11-06T11:02:50.000-07:00
+    changes:
+    - path: New Unity Project\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\CurrentLayout.dwlt
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 603e399ff0ac5ea1ff84d32db0ee3263067186c3
     mergeA: 
     mergeB: 
