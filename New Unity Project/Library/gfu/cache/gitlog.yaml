@@ -13,9 +13,987 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-11-08T09:29:42.288-07:00
+  lastUpdatedAtString: 2019-11-08T09:30:06.157-07:00
   initializedAtString: 2019-11-08T09:29:42.288-07:00
   log:
+  - commitID: 4d19af4d995647924bf7016f1c201069fcc7c1e4
+    mergeA: 
+    mergeB: 
+    authorName: Zach...THE DESTROYER
+    authorEmail: 37596461+JunkKiller01NVme@users.noreply.github.com
+    commitEmail: 37596461+JunkKiller01NVme@users.noreply.github.com
+    commitName: Zach...THE DESTROYER
+    summary: fix?
+    description: 
+    timeString: 2019-11-08T09:30:02.000-07:00
+    commitTimeString: 2019-11-08T09:30:02.000-07:00
+    changes:
+    - path: New Unity Project\Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\APIUpdater\project-dependencies.graph
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\APIUpdater\project-dependencies.graph
+      projectPath: Library\APIUpdater\project-dependencies.graph
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\CurrentLayout.dwlt
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\EditorInstance.json
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Unity.Timeline.dll
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Unity.Timeline.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\StateCache\Hierarchy\c3cd23-mainStage.json
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\StateCache\Hierarchy\c3cd23-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\c3cd23-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\assetDatabase3
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\expandedItems
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\00\00e09cffd30e21844a4ad42d1efc388c
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\00\00e09cffd30e21844a4ad42d1efc388c
+      projectPath: Library\metadata\00\00e09cffd30e21844a4ad42d1efc388c
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\00\00e09cffd30e21844a4ad42d1efc388c.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\00\00e09cffd30e21844a4ad42d1efc388c.info
+      projectPath: Library\metadata\00\00e09cffd30e21844a4ad42d1efc388c.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\05\050d1014a726b0a469106791173ac96b
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\05\050d1014a726b0a469106791173ac96b
+      projectPath: Library\metadata\05\050d1014a726b0a469106791173ac96b
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\05\050d1014a726b0a469106791173ac96b.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\05\050d1014a726b0a469106791173ac96b.info
+      projectPath: Library\metadata\05\050d1014a726b0a469106791173ac96b.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\07\07bb39859af0c9e48af779c39a596dc1.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\07\07bb39859af0c9e48af779c39a596dc1.info
+      projectPath: Library\metadata\07\07bb39859af0c9e48af779c39a596dc1.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\0c\0cce11f0c9e0fe64da11a04f2ba14e63
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\0c\0cce11f0c9e0fe64da11a04f2ba14e63
+      projectPath: Library\metadata\0c\0cce11f0c9e0fe64da11a04f2ba14e63
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\0d\0d9de2133700c124db43c886e6124660.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\0d\0d9de2133700c124db43c886e6124660.info
+      projectPath: Library\metadata\0d\0d9de2133700c124db43c886e6124660.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+      projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+      projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\1f\1fc5a2a03e000af468ad3a17600a7271.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\1f\1fc5a2a03e000af468ad3a17600a7271.info
+      projectPath: Library\metadata\1f\1fc5a2a03e000af468ad3a17600a7271.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\1f\1ffd25603800ecb4b9f9659272ba7603.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\1f\1ffd25603800ecb4b9f9659272ba7603.info
+      projectPath: Library\metadata\1f\1ffd25603800ecb4b9f9659272ba7603.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\20\20b9135425c9c0343975c02bb44d65fb
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\20\20b9135425c9c0343975c02bb44d65fb
+      projectPath: Library\metadata\20\20b9135425c9c0343975c02bb44d65fb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\20\20b9135425c9c0343975c02bb44d65fb.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\20\20b9135425c9c0343975c02bb44d65fb.info
+      projectPath: Library\metadata\20\20b9135425c9c0343975c02bb44d65fb.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+      projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\27\277d160ee471adb4c88323e581c863c8
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\27\277d160ee471adb4c88323e581c863c8
+      projectPath: Library\metadata\27\277d160ee471adb4c88323e581c863c8
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\27\277d160ee471adb4c88323e581c863c8.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\27\277d160ee471adb4c88323e581c863c8.info
+      projectPath: Library\metadata\27\277d160ee471adb4c88323e581c863c8.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\31\31f31486a9cbdb14a8c019d1ddefa009.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\31\31f31486a9cbdb14a8c019d1ddefa009.info
+      projectPath: Library\metadata\31\31f31486a9cbdb14a8c019d1ddefa009.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\33\331945e0ff1ffff499ed0debabac0d46
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\33\331945e0ff1ffff499ed0debabac0d46
+      projectPath: Library\metadata\33\331945e0ff1ffff499ed0debabac0d46
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\34\340c5e159db89874bb22eba1e7f4e0da.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\34\340c5e159db89874bb22eba1e7f4e0da.info
+      projectPath: Library\metadata\34\340c5e159db89874bb22eba1e7f4e0da.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\36\36e8bb3feb5e6402185947b817a6ed8d.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\36\36e8bb3feb5e6402185947b817a6ed8d.info
+      projectPath: Library\metadata\36\36e8bb3feb5e6402185947b817a6ed8d.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\37\3791dc4857ea3e54b91dab4e6046fb12
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\37\3791dc4857ea3e54b91dab4e6046fb12
+      projectPath: Library\metadata\37\3791dc4857ea3e54b91dab4e6046fb12
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\37\3791dc4857ea3e54b91dab4e6046fb12.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\37\3791dc4857ea3e54b91dab4e6046fb12.info
+      projectPath: Library\metadata\37\3791dc4857ea3e54b91dab4e6046fb12.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\38\38389ad2fda8289418ca560647fdbb8b
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\38\38389ad2fda8289418ca560647fdbb8b
+      projectPath: Library\metadata\38\38389ad2fda8289418ca560647fdbb8b
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\38\38389ad2fda8289418ca560647fdbb8b.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\38\38389ad2fda8289418ca560647fdbb8b.info
+      projectPath: Library\metadata\38\38389ad2fda8289418ca560647fdbb8b.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\46\46501753471d0244f964de171cd700fe.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\46\46501753471d0244f964de171cd700fe.info
+      projectPath: Library\metadata\46\46501753471d0244f964de171cd700fe.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\47\47911be3243aa3c4cb56e618cf20846d.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\47\47911be3243aa3c4cb56e618cf20846d.info
+      projectPath: Library\metadata\47\47911be3243aa3c4cb56e618cf20846d.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\49\49be5da73286ddb45b088e97db6a928d
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\49\49be5da73286ddb45b088e97db6a928d
+      projectPath: Library\metadata\49\49be5da73286ddb45b088e97db6a928d
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\49\49be5da73286ddb45b088e97db6a928d.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\49\49be5da73286ddb45b088e97db6a928d.info
+      projectPath: Library\metadata\49\49be5da73286ddb45b088e97db6a928d.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+      projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\58\585b823e021fead44b08ad83db5915e7.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\58\585b823e021fead44b08ad83db5915e7.info
+      projectPath: Library\metadata\58\585b823e021fead44b08ad83db5915e7.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\59\599a5fd92bab81a4ab02e52d0b1b1c60
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\59\599a5fd92bab81a4ab02e52d0b1b1c60
+      projectPath: Library\metadata\59\599a5fd92bab81a4ab02e52d0b1b1c60
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\5e\5e57a6c62c1ec47d0bceb70495845164.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\5e\5e57a6c62c1ec47d0bceb70495845164.info
+      projectPath: Library\metadata\5e\5e57a6c62c1ec47d0bceb70495845164.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\61\61ee10d0d6de42744b27b29e17ce4563.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\61\61ee10d0d6de42744b27b29e17ce4563.info
+      projectPath: Library\metadata\61\61ee10d0d6de42744b27b29e17ce4563.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\65\6597c6ea86d36477081342001145d8d9.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\65\6597c6ea86d36477081342001145d8d9.info
+      projectPath: Library\metadata\65\6597c6ea86d36477081342001145d8d9.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\6b\6b267f551e59d0a47b7b1a04b801f4f2.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\6b\6b267f551e59d0a47b7b1a04b801f4f2.info
+      projectPath: Library\metadata\6b\6b267f551e59d0a47b7b1a04b801f4f2.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\6b\6b559c5dcc0e5604381b072f0d0d99eb
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\6b\6b559c5dcc0e5604381b072f0d0d99eb
+      projectPath: Library\metadata\6b\6b559c5dcc0e5604381b072f0d0d99eb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\6b\6b559c5dcc0e5604381b072f0d0d99eb.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\6b\6b559c5dcc0e5604381b072f0d0d99eb.info
+      projectPath: Library\metadata\6b\6b559c5dcc0e5604381b072f0d0d99eb.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\6d\6d7ec195f297a684e8c931252765cb63.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\6d\6d7ec195f297a684e8c931252765cb63.info
+      projectPath: Library\metadata\6d\6d7ec195f297a684e8c931252765cb63.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\70\70505aee888eb3f48a333bd17dfd89a3.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\70\70505aee888eb3f48a333bd17dfd89a3.info
+      projectPath: Library\metadata\70\70505aee888eb3f48a333bd17dfd89a3.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\77\77bb0b9ef22fa8849ba5c14aeb9299eb.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\77\77bb0b9ef22fa8849ba5c14aeb9299eb.info
+      projectPath: Library\metadata\77\77bb0b9ef22fa8849ba5c14aeb9299eb.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\7f\7f11aec8c0c99584ea9c983b868cbe0e
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\7f\7f11aec8c0c99584ea9c983b868cbe0e
+      projectPath: Library\metadata\7f\7f11aec8c0c99584ea9c983b868cbe0e
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\7f\7f11aec8c0c99584ea9c983b868cbe0e.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\7f\7f11aec8c0c99584ea9c983b868cbe0e.info
+      projectPath: Library\metadata\7f\7f11aec8c0c99584ea9c983b868cbe0e.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\86\86a11be426776c4459e61f27f7a175b9
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\86\86a11be426776c4459e61f27f7a175b9
+      projectPath: Library\metadata\86\86a11be426776c4459e61f27f7a175b9
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\86\86a11be426776c4459e61f27f7a175b9.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\86\86a11be426776c4459e61f27f7a175b9.info
+      projectPath: Library\metadata\86\86a11be426776c4459e61f27f7a175b9.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+      projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\88\881cefef26f3a644892d4c2164081719
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\88\881cefef26f3a644892d4c2164081719
+      projectPath: Library\metadata\88\881cefef26f3a644892d4c2164081719
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\88\881cefef26f3a644892d4c2164081719.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\88\881cefef26f3a644892d4c2164081719.info
+      projectPath: Library\metadata\88\881cefef26f3a644892d4c2164081719.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\92\922fe4e40a35af740bfe692f6443242a
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\92\922fe4e40a35af740bfe692f6443242a
+      projectPath: Library\metadata\92\922fe4e40a35af740bfe692f6443242a
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\92\922fe4e40a35af740bfe692f6443242a.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\92\922fe4e40a35af740bfe692f6443242a.info
+      projectPath: Library\metadata\92\922fe4e40a35af740bfe692f6443242a.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\93\937aca06f3d53964eaf4f04122664d5e.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\93\937aca06f3d53964eaf4f04122664d5e.info
+      projectPath: Library\metadata\93\937aca06f3d53964eaf4f04122664d5e.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\95\95b247e9089e49c4db7b12ec75dc4585
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\95\95b247e9089e49c4db7b12ec75dc4585
+      projectPath: Library\metadata\95\95b247e9089e49c4db7b12ec75dc4585
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\95\95b247e9089e49c4db7b12ec75dc4585.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\95\95b247e9089e49c4db7b12ec75dc4585.info
+      projectPath: Library\metadata\95\95b247e9089e49c4db7b12ec75dc4585.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\95\95ca9f1acd891c9408acd3bfeaa45b94
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\95\95ca9f1acd891c9408acd3bfeaa45b94
+      projectPath: Library\metadata\95\95ca9f1acd891c9408acd3bfeaa45b94
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\95\95ca9f1acd891c9408acd3bfeaa45b94.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\95\95ca9f1acd891c9408acd3bfeaa45b94.info
+      projectPath: Library\metadata\95\95ca9f1acd891c9408acd3bfeaa45b94.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\96\96198b2714a4fbf4d906e1c63bf7c426
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\96\96198b2714a4fbf4d906e1c63bf7c426
+      projectPath: Library\metadata\96\96198b2714a4fbf4d906e1c63bf7c426
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\96\96198b2714a4fbf4d906e1c63bf7c426.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\96\96198b2714a4fbf4d906e1c63bf7c426.info
+      projectPath: Library\metadata\96\96198b2714a4fbf4d906e1c63bf7c426.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\9b\9b5b26b2b3083fb428bf93293ed14652.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\9b\9b5b26b2b3083fb428bf93293ed14652.info
+      projectPath: Library\metadata\9b\9b5b26b2b3083fb428bf93293ed14652.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\a0\a06ba1697b7fc324abceb4ca7e85265e
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\a0\a06ba1697b7fc324abceb4ca7e85265e
+      projectPath: Library\metadata\a0\a06ba1697b7fc324abceb4ca7e85265e
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\a0\a06ba1697b7fc324abceb4ca7e85265e.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\a0\a06ba1697b7fc324abceb4ca7e85265e.info
+      projectPath: Library\metadata\a0\a06ba1697b7fc324abceb4ca7e85265e.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\a3\a39d9d6d4abe96845a82acce94ffa8e5
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\a3\a39d9d6d4abe96845a82acce94ffa8e5
+      projectPath: Library\metadata\a3\a39d9d6d4abe96845a82acce94ffa8e5
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\a3\a39d9d6d4abe96845a82acce94ffa8e5.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\a3\a39d9d6d4abe96845a82acce94ffa8e5.info
+      projectPath: Library\metadata\a3\a39d9d6d4abe96845a82acce94ffa8e5.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\ae\ae2c3d655f35e9c41a072c95cb98f3ba.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\ae\ae2c3d655f35e9c41a072c95cb98f3ba.info
+      projectPath: Library\metadata\ae\ae2c3d655f35e9c41a072c95cb98f3ba.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\ae\aeedb066a03c36e42bd5b990c5cd98c9
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\ae\aeedb066a03c36e42bd5b990c5cd98c9
+      projectPath: Library\metadata\ae\aeedb066a03c36e42bd5b990c5cd98c9
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\ae\aeedb066a03c36e42bd5b990c5cd98c9.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\ae\aeedb066a03c36e42bd5b990c5cd98c9.info
+      projectPath: Library\metadata\ae\aeedb066a03c36e42bd5b990c5cd98c9.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\b2\b25347b9e0b0a5b40a4c534136fdcd25.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\b2\b25347b9e0b0a5b40a4c534136fdcd25.info
+      projectPath: Library\metadata\b2\b25347b9e0b0a5b40a4c534136fdcd25.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\b6\b6e0d1997833e464485f2605929339f2.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\b6\b6e0d1997833e464485f2605929339f2.info
+      projectPath: Library\metadata\b6\b6e0d1997833e464485f2605929339f2.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\b8\b8b141e132d554b4abebff6e9a37b20f
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\b8\b8b141e132d554b4abebff6e9a37b20f
+      projectPath: Library\metadata\b8\b8b141e132d554b4abebff6e9a37b20f
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\b8\b8b141e132d554b4abebff6e9a37b20f.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\b8\b8b141e132d554b4abebff6e9a37b20f.info
+      projectPath: Library\metadata\b8\b8b141e132d554b4abebff6e9a37b20f.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\b9\b98d8acfaef5f294b909f87934d2a41b.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\b9\b98d8acfaef5f294b909f87934d2a41b.info
+      projectPath: Library\metadata\b9\b98d8acfaef5f294b909f87934d2a41b.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\bb\bb33641508a347945be7ef57f40150ad
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\bb\bb33641508a347945be7ef57f40150ad
+      projectPath: Library\metadata\bb\bb33641508a347945be7ef57f40150ad
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\bb\bb33641508a347945be7ef57f40150ad.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\bb\bb33641508a347945be7ef57f40150ad.info
+      projectPath: Library\metadata\bb\bb33641508a347945be7ef57f40150ad.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\c1\c1ddbdadf35114848b750c5238fcb739
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\c1\c1ddbdadf35114848b750c5238fcb739
+      projectPath: Library\metadata\c1\c1ddbdadf35114848b750c5238fcb739
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\c1\c1ddbdadf35114848b750c5238fcb739.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\c1\c1ddbdadf35114848b750c5238fcb739.info
+      projectPath: Library\metadata\c1\c1ddbdadf35114848b750c5238fcb739.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\ce\ce8279599095e3645a4c64dbbca7d701
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\ce\ce8279599095e3645a4c64dbbca7d701
+      projectPath: Library\metadata\ce\ce8279599095e3645a4c64dbbca7d701
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\ce\ce8279599095e3645a4c64dbbca7d701.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\ce\ce8279599095e3645a4c64dbbca7d701.info
+      projectPath: Library\metadata\ce\ce8279599095e3645a4c64dbbca7d701.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\d1\d126476f689bc0d4c90651040d2df933
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\d1\d126476f689bc0d4c90651040d2df933
+      projectPath: Library\metadata\d1\d126476f689bc0d4c90651040d2df933
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\d3\d3c1fc74e149e9e4491e5ceca0aaad7c
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\d3\d3c1fc74e149e9e4491e5ceca0aaad7c
+      projectPath: Library\metadata\d3\d3c1fc74e149e9e4491e5ceca0aaad7c
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+      projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\d6\d607a67dc772b484da060e66a3d61a4e.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\d6\d607a67dc772b484da060e66a3d61a4e.info
+      projectPath: Library\metadata\d6\d607a67dc772b484da060e66a3d61a4e.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+      projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\db\db5ca39d1134941488cc549009fadd3e
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\db\db5ca39d1134941488cc549009fadd3e
+      projectPath: Library\metadata\db\db5ca39d1134941488cc549009fadd3e
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\db\db5ca39d1134941488cc549009fadd3e.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\db\db5ca39d1134941488cc549009fadd3e.info
+      projectPath: Library\metadata\db\db5ca39d1134941488cc549009fadd3e.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\e9\e910053d2728aa0459b85c8533963bf0
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\e9\e910053d2728aa0459b85c8533963bf0
+      projectPath: Library\metadata\e9\e910053d2728aa0459b85c8533963bf0
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\e9\e910053d2728aa0459b85c8533963bf0.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\e9\e910053d2728aa0459b85c8533963bf0.info
+      projectPath: Library\metadata\e9\e910053d2728aa0459b85c8533963bf0.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\ec\ecb02663e9390ab438c298868255c1ac.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\ec\ecb02663e9390ab438c298868255c1ac.info
+      projectPath: Library\metadata\ec\ecb02663e9390ab438c298868255c1ac.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\ed\ed70d4bbf9c464c48903176bd7ec403b
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\ed\ed70d4bbf9c464c48903176bd7ec403b
+      projectPath: Library\metadata\ed\ed70d4bbf9c464c48903176bd7ec403b
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\ed\ed70d4bbf9c464c48903176bd7ec403b.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\ed\ed70d4bbf9c464c48903176bd7ec403b.info
+      projectPath: Library\metadata\ed\ed70d4bbf9c464c48903176bd7ec403b.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\ed\edbe256fe20632d4993d621aa4673406.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\ed\edbe256fe20632d4993d621aa4673406.info
+      projectPath: Library\metadata\ed\edbe256fe20632d4993d621aa4673406.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\ed\edf71dd63ffe161488b2865442ed5024
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\ed\edf71dd63ffe161488b2865442ed5024
+      projectPath: Library\metadata\ed\edf71dd63ffe161488b2865442ed5024
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\ed\edf71dd63ffe161488b2865442ed5024.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\ed\edf71dd63ffe161488b2865442ed5024.info
+      projectPath: Library\metadata\ed\edf71dd63ffe161488b2865442ed5024.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\f5\f524c60ea89a72b49b5933ca605c89e3.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\f5\f524c60ea89a72b49b5933ca605c89e3.info
+      projectPath: Library\metadata\f5\f524c60ea89a72b49b5933ca605c89e3.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\f5\f5a59b8947dd46946806b4de1a17ed9f
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\f5\f5a59b8947dd46946806b4de1a17ed9f
+      projectPath: Library\metadata\f5\f5a59b8947dd46946806b4de1a17ed9f
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\f5\f5a59b8947dd46946806b4de1a17ed9f.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\f5\f5a59b8947dd46946806b4de1a17ed9f.info
+      projectPath: Library\metadata\f5\f5a59b8947dd46946806b4de1a17ed9f.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\f7\f757b29d551a3f548811edaaa44f22bf.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\f7\f757b29d551a3f548811edaaa44f22bf.info
+      projectPath: Library\metadata\f7\f757b29d551a3f548811edaaa44f22bf.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\fe\fec197bad419341558f81f2ec8a05e18.info
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\metadata\fe\fec197bad419341558f81f2ec8a05e18.info
+      projectPath: Library\metadata\fe\fec197bad419341558f81f2ec8a05e18.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-0c63dd9743dc28449bb108591078082f
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-0c63dd9743dc28449bb108591078082f
+      projectPath: Temp\UnityTempFile-0c63dd9743dc28449bb108591078082f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-1bce12b21ee2ba14e96866b01d920b3d
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-1bce12b21ee2ba14e96866b01d920b3d
+      projectPath: Temp\UnityTempFile-1bce12b21ee2ba14e96866b01d920b3d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-5205b21c3a13d3b46a66907dedc95e2f
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-5205b21c3a13d3b46a66907dedc95e2f
+      projectPath: Temp\UnityTempFile-5205b21c3a13d3b46a66907dedc95e2f
+      originalPath: New Unity Project\Temp\UnityTempFile-1e4d66c3ff024b84691a6b99ff2e43da
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-722c2c4a97173b84cbcfae06b366fea5
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-722c2c4a97173b84cbcfae06b366fea5
+      projectPath: Temp\UnityTempFile-722c2c4a97173b84cbcfae06b366fea5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-7d999991572895d4a8ed74db87cf042c
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-7d999991572895d4a8ed74db87cf042c
+      projectPath: Temp\UnityTempFile-7d999991572895d4a8ed74db87cf042c
+      originalPath: New Unity Project\Temp\UnityTempFile-d702fdefc621aab48adfbd08823ecf6e
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-9e9e30e129fc60f4aa37945d18f309f8
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-9e9e30e129fc60f4aa37945d18f309f8
+      projectPath: Temp\UnityTempFile-9e9e30e129fc60f4aa37945d18f309f8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-b39b9eb1dcee6bd47b63a58587b6a541
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-b39b9eb1dcee6bd47b63a58587b6a541
+      projectPath: Temp\UnityTempFile-b39b9eb1dcee6bd47b63a58587b6a541
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-f0a991811f997004b9100aabca107015
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-f0a991811f997004b9100aabca107015
+      projectPath: Temp\UnityTempFile-f0a991811f997004b9100aabca107015
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\__Backupscenes\0.backup
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Temp\__Backupscenes\0.backup
+      projectPath: Temp\__Backupscenes\0.backup
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
   - commitID: 375f7a57841d521330ad3615ce62cd2513f4b5a0
     mergeA: 
     mergeB: 
