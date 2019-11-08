@@ -13,9 +13,45 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-11-06T11:08:39.733-07:00
-  initializedAtString: 2019-11-06T11:05:03.119-07:00
+  lastUpdatedAtString: 2019-11-08T09:29:42.288-07:00
+  initializedAtString: 2019-11-08T09:29:42.288-07:00
   log:
+  - commitID: 375f7a57841d521330ad3615ce62cd2513f4b5a0
+    mergeA: 
+    mergeB: 
+    authorName: Zach...THE DESTROYER
+    authorEmail: 37596461+JunkKiller01NVme@users.noreply.github.com
+    commitEmail: 37596461+JunkKiller01NVme@users.noreply.github.com
+    commitName: Zach...THE DESTROYER
+    summary: --
+    description: 
+    timeString: 2019-11-06T11:09:01.000-07:00
+    commitTimeString: 2019-11-06T11:09:01.000-07:00
+    changes:
+    - path: New Unity Project\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 982ecb3f6e9ed065cadc209d7d06f5eb044c5837
     mergeA: 
     mergeB: 
