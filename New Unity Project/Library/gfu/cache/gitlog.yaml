@@ -13,9 +13,450 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-11-08T09:46:26.950-07:00
+  lastUpdatedAtString: 2019-11-08T09:49:11.929-07:00
   initializedAtString: 2019-11-08T09:46:26.950-07:00
   log:
+  - commitID: 740720d84a0ddc2cbc953e23e86ab3932b39d1b5
+    mergeA: 
+    mergeB: 
+    authorName: thebean579
+    authorEmail: 57454040+thebean579@users.noreply.github.com
+    commitEmail: 57454040+thebean579@users.noreply.github.com
+    commitName: thebean579
+    summary: bens pc fix?
+    description: 
+    timeString: 2019-11-08T09:48:36.000-07:00
+    commitTimeString: 2019-11-08T09:48:36.000-07:00
+    changes:
+    - path: New Unity Project\Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assembly-CSharp.csproj
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Map Tiles\Human world\Assets.meta
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Assets\Map
+        Tiles\Human world\Assets.meta
+      projectPath: Assets\Map Tiles\Human world\Assets.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Map Tiles\Human world\pngs.meta
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Assets\Map
+        Tiles\Human world\pngs.meta
+      projectPath: Assets\Map Tiles\Human world\pngs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: New Unity Project\Assets\Map Tiles\Wizard Castle\Pngs\Walls.meta
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Assets\Map
+        Tiles\Wizard Castle\Pngs\Walls.meta
+      projectPath: Assets\Map Tiles\Wizard Castle\Pngs\Walls.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: New Unity Project\Library\APIUpdater\project-dependencies.graph
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\APIUpdater\project-dependencies.graph
+      projectPath: Library\APIUpdater\project-dependencies.graph
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\EditorInstance.json
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\ScriptAssemblies\Unity.Timeline.dll
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Unity.Timeline.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\assetDatabase3
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+      projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\13\136dc24f151211d438acee17aff4e934
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\13\136dc24f151211d438acee17aff4e934
+      projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+      projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+      projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+      projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\77\77b383436a5d34344aadeb5f71280730
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\77\77b383436a5d34344aadeb5f71280730
+      projectPath: Library\metadata\77\77b383436a5d34344aadeb5f71280730
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\77\77b383436a5d34344aadeb5f71280730.info
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\77\77b383436a5d34344aadeb5f71280730.info
+      projectPath: Library\metadata\77\77b383436a5d34344aadeb5f71280730.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+      projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\ab\abd249aecebeaa441b0bb60c870e6a92
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\ab\abd249aecebeaa441b0bb60c870e6a92
+      projectPath: Library\metadata\ab\abd249aecebeaa441b0bb60c870e6a92
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\ab\abd249aecebeaa441b0bb60c870e6a92.info
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\ab\abd249aecebeaa441b0bb60c870e6a92.info
+      projectPath: Library\metadata\ab\abd249aecebeaa441b0bb60c870e6a92.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\c4\c4315a41372f4714aa00bf2ca0d4d87d
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\c4\c4315a41372f4714aa00bf2ca0d4d87d
+      projectPath: Library\metadata\c4\c4315a41372f4714aa00bf2ca0d4d87d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\c4\c4315a41372f4714aa00bf2ca0d4d87d.info
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\c4\c4315a41372f4714aa00bf2ca0d4d87d.info
+      projectPath: Library\metadata\c4\c4315a41372f4714aa00bf2ca0d4d87d.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+      projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+      projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-085439336e688d240817ef9a9a94ee81
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-085439336e688d240817ef9a9a94ee81
+      projectPath: Temp\UnityTempFile-085439336e688d240817ef9a9a94ee81
+      originalPath: New Unity Project\Temp\UnityTempFile-828c671601b63e54b844a97d5d89c0de
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-0c63dd9743dc28449bb108591078082f
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-0c63dd9743dc28449bb108591078082f
+      projectPath: Temp\UnityTempFile-0c63dd9743dc28449bb108591078082f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-0e380719b7e19af46a7431fe6168a506
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-0e380719b7e19af46a7431fe6168a506
+      projectPath: Temp\UnityTempFile-0e380719b7e19af46a7431fe6168a506
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-0f5468231e624a94a93d0c487948edc8
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-0f5468231e624a94a93d0c487948edc8
+      projectPath: Temp\UnityTempFile-0f5468231e624a94a93d0c487948edc8
+      originalPath: New Unity Project\Temp\UnityTempFile-d5278a70940458049972c624967d02ed
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-1bce12b21ee2ba14e96866b01d920b3d
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-1bce12b21ee2ba14e96866b01d920b3d
+      projectPath: Temp\UnityTempFile-1bce12b21ee2ba14e96866b01d920b3d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-262da4b165db1154d91a1e7edd419cd4
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-262da4b165db1154d91a1e7edd419cd4
+      projectPath: Temp\UnityTempFile-262da4b165db1154d91a1e7edd419cd4
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-265bccf5072f96b449a9876ea1147048
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-265bccf5072f96b449a9876ea1147048
+      projectPath: Temp\UnityTempFile-265bccf5072f96b449a9876ea1147048
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-338b3e18d8e0c53488fc5af7ef18e828
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-338b3e18d8e0c53488fc5af7ef18e828
+      projectPath: Temp\UnityTempFile-338b3e18d8e0c53488fc5af7ef18e828
+      originalPath: New Unity Project\Temp\UnityTempFile-f96abecfc83f51e4e9fcba1d97641c99
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-3f3f1d95d134b9a439bda3222cff0210
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-3f3f1d95d134b9a439bda3222cff0210
+      projectPath: Temp\UnityTempFile-3f3f1d95d134b9a439bda3222cff0210
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-528ec71ce09b3bc4c996b2c2b0feebc1
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-528ec71ce09b3bc4c996b2c2b0feebc1
+      projectPath: Temp\UnityTempFile-528ec71ce09b3bc4c996b2c2b0feebc1
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-627a3b500535cf44b93c6916c9e5a1d1
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-627a3b500535cf44b93c6916c9e5a1d1
+      projectPath: Temp\UnityTempFile-627a3b500535cf44b93c6916c9e5a1d1
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-63584e370161da94ab86ca2b1f5bcf1b
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-63584e370161da94ab86ca2b1f5bcf1b
+      projectPath: Temp\UnityTempFile-63584e370161da94ab86ca2b1f5bcf1b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-6dbece886eb4d77479ca81817ea6d353
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-6dbece886eb4d77479ca81817ea6d353
+      projectPath: Temp\UnityTempFile-6dbece886eb4d77479ca81817ea6d353
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-722c2c4a97173b84cbcfae06b366fea5
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-722c2c4a97173b84cbcfae06b366fea5
+      projectPath: Temp\UnityTempFile-722c2c4a97173b84cbcfae06b366fea5
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-93d2e7f5935b3114a84a4fc5571ec748
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-93d2e7f5935b3114a84a4fc5571ec748
+      projectPath: Temp\UnityTempFile-93d2e7f5935b3114a84a4fc5571ec748
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-9e9e30e129fc60f4aa37945d18f309f8
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-9e9e30e129fc60f4aa37945d18f309f8
+      projectPath: Temp\UnityTempFile-9e9e30e129fc60f4aa37945d18f309f8
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-b28a5b7fb099cee40aca87ab537f3833
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-b28a5b7fb099cee40aca87ab537f3833
+      projectPath: Temp\UnityTempFile-b28a5b7fb099cee40aca87ab537f3833
+      originalPath: New Unity Project\Temp\UnityTempFile-5a7ebe921e602334aaf212d98a13a7a2
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-b39b9eb1dcee6bd47b63a58587b6a541
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-b39b9eb1dcee6bd47b63a58587b6a541
+      projectPath: Temp\UnityTempFile-b39b9eb1dcee6bd47b63a58587b6a541
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-c759dc32441b9b74a9ad1e0d66a2fcb8
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-c759dc32441b9b74a9ad1e0d66a2fcb8
+      projectPath: Temp\UnityTempFile-c759dc32441b9b74a9ad1e0d66a2fcb8
+      originalPath: New Unity Project\Temp\UnityTempFile-a1d332093933ce44583368efee9d7fd5
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-ca1f23c3e7a033244a7be2a234cf4481
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-ca1f23c3e7a033244a7be2a234cf4481
+      projectPath: Temp\UnityTempFile-ca1f23c3e7a033244a7be2a234cf4481
+      originalPath: New Unity Project\Temp\UnityTempFile-5205b21c3a13d3b46a66907dedc95e2f
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-e0533d716a2a228429e71d8bd6846d9d
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-e0533d716a2a228429e71d8bd6846d9d
+      projectPath: Temp\UnityTempFile-e0533d716a2a228429e71d8bd6846d9d
+      originalPath: New Unity Project\Temp\UnityTempFile-7d999991572895d4a8ed74db87cf042c
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-e75839313bf78cc44834b36d60545961
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-e75839313bf78cc44834b36d60545961
+      projectPath: Temp\UnityTempFile-e75839313bf78cc44834b36d60545961
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-f0a991811f997004b9100aabca107015
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-f0a991811f997004b9100aabca107015
+      projectPath: Temp\UnityTempFile-f0a991811f997004b9100aabca107015
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: New Unity Project\Temp\UnityTempFile-f15e1e4e4c5cceb46b0dff200c520430
+      fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-f15e1e4e4c5cceb46b0dff200c520430
+      projectPath: Temp\UnityTempFile-f15e1e4e4c5cceb46b0dff200c520430
+      originalPath: New Unity Project\Temp\UnityTempFile-3f5b6964bfaa92048b4e86060a07793c
+      indexStatus: 6
+      workTreeStatus: 0
   - commitID: 6e7ec775c66e9276982416b2ef6faf0bfe77889f
     mergeA: 
     mergeB: 
