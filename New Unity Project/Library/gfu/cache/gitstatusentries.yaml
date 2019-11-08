@@ -13,36 +13,1974 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-11-08T09:30:06.401-07:00
-  initializedAtString: 2019-11-08T09:29:34.690-07:00
+  lastUpdatedAtString: 2019-11-08T09:46:30.421-07:00
+  initializedAtString: 2019-11-08T09:44:31.641-07:00
   entries:
-  - path: New Unity Project\Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
+  - path: New Unity Project\Assembly-CSharp.csproj
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Assets\Map Tiles\Human world\Assets.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Assets\Map
+      Tiles\Human world\Assets.meta
+    projectPath: Assets\Map Tiles\Human world\Assets.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Assets\Map Tiles\Human world\pngs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Assets\Map
+      Tiles\Human world\pngs.meta
+    projectPath: Assets\Map Tiles\Human world\pngs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Assets\Map Tiles\Wizard Castle\Pngs\Walls.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Assets\Map
+      Tiles\Wizard Castle\Pngs\Walls.meta
+    projectPath: Assets\Map Tiles\Wizard Castle\Pngs\Walls.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Library\APIUpdater\project-dependencies.graph
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\assetDatabase3
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\EditorInstance.json
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: New Unity Project\Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\gitlog.yaml
     projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: New Unity Project\Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: New Unity Project\Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\metadata\77\77b383436a5d34344aadeb5f71280730
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\77\77b383436a5d34344aadeb5f71280730
+    projectPath: Library\metadata\77\77b383436a5d34344aadeb5f71280730
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Library\metadata\77\77b383436a5d34344aadeb5f71280730.info
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\77\77b383436a5d34344aadeb5f71280730.info
+    projectPath: Library\metadata\77\77b383436a5d34344aadeb5f71280730.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\metadata\ab\abd249aecebeaa441b0bb60c870e6a92
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\ab\abd249aecebeaa441b0bb60c870e6a92
+    projectPath: Library\metadata\ab\abd249aecebeaa441b0bb60c870e6a92
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Library\metadata\ab\abd249aecebeaa441b0bb60c870e6a92.info
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\ab\abd249aecebeaa441b0bb60c870e6a92.info
+    projectPath: Library\metadata\ab\abd249aecebeaa441b0bb60c870e6a92.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Library\metadata\c4\c4315a41372f4714aa00bf2ca0d4d87d
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\c4\c4315a41372f4714aa00bf2ca0d4d87d
+    projectPath: Library\metadata\c4\c4315a41372f4714aa00bf2ca0d4d87d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Library\metadata\c4\c4315a41372f4714aa00bf2ca0d4d87d.info
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\c4\c4315a41372f4714aa00bf2ca0d4d87d.info
+    projectPath: Library\metadata\c4\c4315a41372f4714aa00bf2ca0d4d87d.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\CHANGELOG.md
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\CHANGELOG.md
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\CHANGELOG.md
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\CHANGELOG.md.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\CHANGELOG.md.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\CHANGELOG.md.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Android.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Android.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Android.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Android\builds.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Android\builds.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Android\builds.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Android\builds\unity-ads.aar.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Android\builds\unity-ads.aar.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Android\builds\unity-ads.aar.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Editor.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Editor.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Editor.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Editor\landscape.jpg.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Editor\landscape.jpg.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Editor\landscape.jpg.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Editor\portrait.jpg.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Editor\portrait.jpg.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Editor\portrait.jpg.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSInAppPurchaseMetaData.h
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSInAppPurchaseMetaData.h
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSInAppPurchaseMetaData.h
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSInAppPurchaseMetaData.h.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSInAppPurchaseMetaData.h.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSInAppPurchaseMetaData.h.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSJsonStorage.h
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSJsonStorage.h
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSJsonStorage.h
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSJsonStorage.h.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSJsonStorage.h.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSJsonStorage.h.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSMediationMetaData.h
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSMediationMetaData.h
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSMediationMetaData.h
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSMediationMetaData.h.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSMediationMetaData.h.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSMediationMetaData.h.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSMetaData.h
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSMetaData.h
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSMetaData.h
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSMetaData.h.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSMetaData.h.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSMetaData.h.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSPlayerMetaData.h
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSPlayerMetaData.h
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSPlayerMetaData.h
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSPlayerMetaData.h.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSPlayerMetaData.h.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSPlayerMetaData.h.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAds.h
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAds.h
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAds.h
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAds.h.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAds.h.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAds.h.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAdsExtended.h
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAdsExtended.h
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAdsExtended.h
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAdsExtended.h.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAdsExtended.h.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAdsExtended.h.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAdsUnityDelegate.h
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAdsUnityDelegate.h
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAdsUnityDelegate.h
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAdsUnityDelegate.h.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAdsUnityDelegate.h.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAdsUnityDelegate.h.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Info.plist.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Info.plist.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Info.plist.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Modules.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Modules.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Modules.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Modules\module.modulemap
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Modules\module.modulemap
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Modules\module.modulemap
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Modules\module.modulemap.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Modules\module.modulemap.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Modules\module.modulemap.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\UnityAds.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\UnityAds.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\UnityAds.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\UnityEditor.Advertisements.dll.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\UnityEditor.Advertisements.dll.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\UnityEditor.Advertisements.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\UnityEditor.Advertisements.dll.mdb.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\UnityEditor.Advertisements.dll.mdb.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\UnityEditor.Advertisements.dll.mdb.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\License.md
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\License.md
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\License.md
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\License.md.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\License.md.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\License.md.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\package.json
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\package.json
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\package.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\package.json.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\package.json.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\package.json.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\README.md.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\README.md.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\README.md.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\UnityEngine.Advertisements.dll.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\UnityEngine.Advertisements.dll.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\UnityEngine.Advertisements.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\UnityEngine.Advertisements.dll.mdb.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\UnityEngine.Advertisements.dll.mdb.meta
+    projectPath: Library\PackageCache\com.unity.ads@2.0.8\UnityEngine.Advertisements.dll.mdb.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\CHANGELOG.md
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\CHANGELOG.md
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\CHANGELOG.md
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\CHANGELOG.md.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\CHANGELOG.md.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\CHANGELOG.md.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\AssemblyInfo.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\AssemblyInfo.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\AssemblyInfo.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\AssemblyInfo.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\AssemblyInfo.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\AssemblyInfo.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\DataPrivacy.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\DataPrivacy.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\DataPrivacy.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\DataPrivacy.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\DataPrivacy.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\DataPrivacy.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\DataPrivacyButton.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\DataPrivacyButton.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\DataPrivacyButton.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\DataPrivacyButton.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\DataPrivacyButton.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\DataPrivacyButton.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\DataPrivacyButton.prefab
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\DataPrivacyButton.prefab
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\DataPrivacyButton.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\DataPrivacyButton.prefab.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\DataPrivacyButton.prefab.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\DataPrivacyButton.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\DataPrivacyIcon.png.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\DataPrivacyIcon.png.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\DataPrivacyIcon.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\Unity.Analytics.DataPrivacy.asmdef
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\Unity.Analytics.DataPrivacy.asmdef
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\Unity.Analytics.DataPrivacy.asmdef
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\Unity.Analytics.DataPrivacy.asmdef.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\Unity.Analytics.DataPrivacy.asmdef.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\DataPrivacy\Unity.Analytics.DataPrivacy.asmdef.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Documentation~\analytics.md
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Documentation~\analytics.md
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Documentation~\analytics.md
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Editor.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Editor.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Editor.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Editor\AnalyticsEventTracker
+      icon.png.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Editor\AnalyticsEventTracker
+      icon.png.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Editor\AnalyticsEventTracker
+      icon.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\License.md
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\License.md
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\License.md
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\License.md.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\License.md.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\License.md.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\package.json
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\package.json
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\package.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\package.json.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\package.json.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\package.json.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\README.md
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\README.md
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\README.md
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\README.md.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\README.md.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\README.md.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\.tests.json
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\.tests.json
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\.tests.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AchievementStepTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AchievementStepTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AchievementStepTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AchievementStepTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AchievementStepTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AchievementStepTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AchievementUnlockedTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AchievementUnlockedTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AchievementUnlockedTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AchievementUnlockedTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AchievementUnlockedTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AchievementUnlockedTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AdCompleteTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AdCompleteTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AdCompleteTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AdCompleteTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AdCompleteTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AdCompleteTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AdOfferTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AdOfferTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AdOfferTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AdOfferTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AdOfferTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AdOfferTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AdSkipTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AdSkipTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AdSkipTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AdSkipTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AdSkipTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AdSkipTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AdStartTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AdStartTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AdStartTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AdStartTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AdStartTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AdStartTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AnalyticsEventTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AnalyticsEventTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AnalyticsEventTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AnalyticsEventTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AnalyticsEventTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\AnalyticsEventTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\ChatMessageSentTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\ChatMessageSentTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\ChatMessageSentTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\ChatMessageSentTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\ChatMessageSentTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\ChatMessageSentTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\CutsceneSkipTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\CutsceneSkipTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\CutsceneSkipTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\CutsceneSkipTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\CutsceneSkipTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\CutsceneSkipTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\CutsceneStartTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\CutsceneStartTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\CutsceneStartTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\CutsceneStartTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\CutsceneStartTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\CutsceneStartTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\FirstInteractionTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\FirstInteractionTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\FirstInteractionTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\FirstInteractionTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\FirstInteractionTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\FirstInteractionTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\GameOverTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\GameOverTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\GameOverTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\GameOverTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\GameOverTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\GameOverTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\GameStartTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\GameStartTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\GameStartTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\GameStartTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\GameStartTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\GameStartTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\IAPTransactionTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\IAPTransactionTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\IAPTransactionTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\IAPTransactionTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\IAPTransactionTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\IAPTransactionTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\ItemAcquiredTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\ItemAcquiredTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\ItemAcquiredTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\ItemAcquiredTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\ItemAcquiredTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\ItemAcquiredTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\ItemSpentTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\ItemSpentTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\ItemSpentTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\ItemSpentTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\ItemSpentTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\ItemSpentTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelCompleteTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelCompleteTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelCompleteTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelCompleteTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelCompleteTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelCompleteTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelFailTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelFailTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelFailTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelFailTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelFailTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelFailTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelQuitTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelQuitTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelQuitTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelQuitTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelQuitTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelQuitTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelSkipTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelSkipTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelSkipTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelSkipTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelSkipTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelSkipTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelStartTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelStartTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelStartTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelStartTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelStartTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelStartTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelUpTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelUpTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelUpTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelUpTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelUpTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\LevelUpTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\PostAdActionTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\PostAdActionTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\PostAdActionTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\PostAdActionTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\PostAdActionTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\PostAdActionTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\PushNotificationClickTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\PushNotificationClickTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\PushNotificationClickTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\PushNotificationClickTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\PushNotificationClickTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\PushNotificationClickTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\PushNotificationEnableTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\PushNotificationEnableTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\PushNotificationEnableTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\PushNotificationEnableTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\PushNotificationEnableTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\PushNotificationEnableTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\ScreenVisitTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\ScreenVisitTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\ScreenVisitTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\ScreenVisitTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\ScreenVisitTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\ScreenVisitTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\SocialShareAcceptTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\SocialShareAcceptTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\SocialShareAcceptTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\SocialShareAcceptTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\SocialShareAcceptTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\SocialShareAcceptTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\SocialShareTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\SocialShareTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\SocialShareTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\SocialShareTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\SocialShareTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\SocialShareTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\StoreItemClickTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\StoreItemClickTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\StoreItemClickTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\StoreItemClickTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\StoreItemClickTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\StoreItemClickTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\StoreOpenedTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\StoreOpenedTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\StoreOpenedTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\StoreOpenedTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\StoreOpenedTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\StoreOpenedTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\TutorialCompleteTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\TutorialCompleteTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\TutorialCompleteTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\TutorialCompleteTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\TutorialCompleteTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\TutorialCompleteTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\TutorialSkipTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\TutorialSkipTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\TutorialSkipTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\TutorialSkipTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\TutorialSkipTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\TutorialSkipTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\TutorialStartTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\TutorialStartTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\TutorialStartTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\TutorialStartTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\TutorialStartTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\TutorialStartTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\TutorialStepTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\TutorialStepTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\TutorialStepTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\TutorialStepTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\TutorialStepTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\TutorialStepTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\Unity.Analytics.StandardEvents.EditorTests.asmdef
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\Unity.Analytics.StandardEvents.EditorTests.asmdef
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\Unity.Analytics.StandardEvents.EditorTests.asmdef
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\Unity.Analytics.StandardEvents.EditorTests.asmdef.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\Unity.Analytics.StandardEvents.EditorTests.asmdef.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\Unity.Analytics.StandardEvents.EditorTests.asmdef.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\UserSignupTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\UserSignupTests.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\UserSignupTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\UserSignupTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\UserSignupTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Editor\Unity.Analytics.StandardEvents\UserSignupTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Runtime.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Runtime.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Runtime.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Runtime\DataPrivacy.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Runtime\DataPrivacy.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Runtime\DataPrivacy.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Runtime\DataPrivacy\JsonSerialization.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Runtime\DataPrivacy\JsonSerialization.cs
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Runtime\DataPrivacy\JsonSerialization.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Runtime\DataPrivacy\JsonSerialization.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Runtime\DataPrivacy\JsonSerialization.cs.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Runtime\DataPrivacy\JsonSerialization.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Runtime\DataPrivacy\Unity.Analytics.DataPrivacy.Tests.asmdef
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Runtime\DataPrivacy\Unity.Analytics.DataPrivacy.Tests.asmdef
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Runtime\DataPrivacy\Unity.Analytics.DataPrivacy.Tests.asmdef
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Runtime\DataPrivacy\Unity.Analytics.DataPrivacy.Tests.asmdef.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Tests\Runtime\DataPrivacy\Unity.Analytics.DataPrivacy.Tests.asmdef.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Tests\Runtime\DataPrivacy\Unity.Analytics.DataPrivacy.Tests.asmdef.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Unity.Analytics.Editor.dll.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Unity.Analytics.Editor.dll.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Unity.Analytics.Editor.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Unity.Analytics.Editor.dll.mdb.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Unity.Analytics.Editor.dll.mdb.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Unity.Analytics.Editor.dll.mdb.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Unity.Analytics.StandardEvents.dll.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Unity.Analytics.StandardEvents.dll.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Unity.Analytics.StandardEvents.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Unity.Analytics.StandardEvents.dll.mdb.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Unity.Analytics.StandardEvents.dll.mdb.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Unity.Analytics.StandardEvents.dll.mdb.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Unity.Analytics.Tracker.dll.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Unity.Analytics.Tracker.dll.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Unity.Analytics.Tracker.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Unity.Analytics.Tracker.dll.mdb.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.analytics@3.3.2\Unity.Analytics.Tracker.dll.mdb.meta
+    projectPath: Library\PackageCache\com.unity.analytics@3.3.2\Unity.Analytics.Tracker.dll.mdb.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\.npmignore
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\.npmignore
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\.npmignore
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\CHANGELOG.md
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\CHANGELOG.md
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\CHANGELOG.md
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\CHANGELOG.md.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\CHANGELOG.md.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\CHANGELOG.md.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\DEPENDENCIES.md
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\DEPENDENCIES.md
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\DEPENDENCIES.md
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\DEPENDENCIES.md.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\DEPENDENCIES.md.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\DEPENDENCIES.md.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Documentation~\collab-proxy.md
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Documentation~\collab-proxy.md
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Documentation~\collab-proxy.md
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\AssemblyInfo.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\AssemblyInfo.cs
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\AssemblyInfo.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\AssemblyInfo.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\AssemblyInfo.cs.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\AssemblyInfo.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Bootstrap.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Bootstrap.cs
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Bootstrap.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Bootstrap.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Bootstrap.cs.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Bootstrap.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\CollabAnalytics.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\CollabAnalytics.cs
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\CollabAnalytics.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\CollabAnalytics.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\CollabAnalytics.cs.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\CollabAnalytics.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\CollabHistoryWindow.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\CollabHistoryWindow.cs
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\CollabHistoryWindow.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\CollabHistoryWindow.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\CollabHistoryWindow.cs.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\CollabHistoryWindow.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\CollabToolbarButton.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\CollabToolbarButton.cs
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\CollabToolbarButton.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\CollabToolbarButton.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\CollabToolbarButton.cs.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\CollabToolbarButton.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\CollabToolbarWindow.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\CollabToolbarWindow.cs
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\CollabToolbarWindow.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\CollabToolbarWindow.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\CollabToolbarWindow.cs.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\CollabToolbarWindow.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Presenters.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Presenters.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Presenters.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Presenters\CollabHistoryPresenter.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Presenters\CollabHistoryPresenter.cs
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Presenters\CollabHistoryPresenter.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Presenters\CollabHistoryPresenter.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Presenters\CollabHistoryPresenter.cs.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Presenters\CollabHistoryPresenter.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\BuildStatusButton.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\BuildStatusButton.cs
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\BuildStatusButton.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\BuildStatusButton.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\BuildStatusButton.cs.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\BuildStatusButton.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\CollabHistoryDropDown.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\CollabHistoryDropDown.cs
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\CollabHistoryDropDown.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\CollabHistoryDropDown.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\CollabHistoryDropDown.cs.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\CollabHistoryDropDown.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\CollabHistoryDropDownItem.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\CollabHistoryDropDownItem.cs
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\CollabHistoryDropDownItem.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\CollabHistoryDropDownItem.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\CollabHistoryDropDownItem.cs.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\CollabHistoryDropDownItem.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\CollabHistoryItem.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\CollabHistoryItem.cs
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\CollabHistoryItem.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\CollabHistoryItem.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\CollabHistoryItem.cs.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\CollabHistoryItem.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\CollabHistoryItemFactory.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\CollabHistoryItemFactory.cs
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\CollabHistoryItemFactory.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\CollabHistoryItemFactory.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\CollabHistoryItemFactory.cs.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\CollabHistoryItemFactory.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\CollabHistoryRevisionLine.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\CollabHistoryRevisionLine.cs
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\CollabHistoryRevisionLine.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\CollabHistoryRevisionLine.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\CollabHistoryRevisionLine.cs.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\CollabHistoryRevisionLine.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\HistoryProgressSpinner.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\HistoryProgressSpinner.cs
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\HistoryProgressSpinner.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\HistoryProgressSpinner.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\HistoryProgressSpinner.cs.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\HistoryProgressSpinner.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\ICollabHistoryItemFactory.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\ICollabHistoryItemFactory.cs
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\ICollabHistoryItemFactory.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\ICollabHistoryItemFactory.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\ICollabHistoryItemFactory.cs.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\ICollabHistoryItemFactory.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\PagedListView.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\PagedListView.cs
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\PagedListView.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\PagedListView.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\PagedListView.cs.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\PagedListView.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\StatusView.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\StatusView.cs
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\StatusView.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\StatusView.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\StatusView.cs.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Collab\Views\StatusView.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Resources.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Resources.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Resources.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Resources\Styles.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Resources\Styles.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Resources\Styles.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Resources\Styles\CollabHistoryCommon.uss
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Resources\Styles\CollabHistoryCommon.uss
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Resources\Styles\CollabHistoryCommon.uss
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Resources\Styles\CollabHistoryCommon.uss.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Resources\Styles\CollabHistoryCommon.uss.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Resources\Styles\CollabHistoryCommon.uss.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Resources\Styles\CollabHistoryDark.uss
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Resources\Styles\CollabHistoryDark.uss
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Resources\Styles\CollabHistoryDark.uss
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Resources\Styles\CollabHistoryDark.uss.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Resources\Styles\CollabHistoryDark.uss.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Resources\Styles\CollabHistoryDark.uss.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Resources\Styles\CollabHistoryLight.uss
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Resources\Styles\CollabHistoryLight.uss
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Resources\Styles\CollabHistoryLight.uss
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Resources\Styles\CollabHistoryLight.uss.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Resources\Styles\CollabHistoryLight.uss.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Resources\Styles\CollabHistoryLight.uss.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Unity.CollabProxy.Editor.asmdef
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Unity.CollabProxy.Editor.asmdef
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Unity.CollabProxy.Editor.asmdef
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Unity.CollabProxy.Editor.asmdef.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Unity.CollabProxy.Editor.asmdef.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Editor\Unity.CollabProxy.Editor.asmdef.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\LICENSE.md
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\LICENSE.md
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\LICENSE.md
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\LICENSE.md.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\LICENSE.md.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\LICENSE.md.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\package.json
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\package.json
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\package.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\package.json.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\package.json.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\package.json.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\README.md
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\README.md
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\README.md
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\README.md.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\README.md.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\README.md.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Tests.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Tests.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Tests.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Tests\Editor.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Tests\Editor.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Tests\Editor.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Tests\Editor\HistoryTests.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Tests\Editor\HistoryTests.cs
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Tests\Editor\HistoryTests.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Tests\Editor\HistoryTests.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Tests\Editor\HistoryTests.cs.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Tests\Editor\HistoryTests.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Tests\Editor\Unity.CollabProxy.EditorTests.asmdef
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Tests\Editor\Unity.CollabProxy.EditorTests.asmdef
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Tests\Editor\Unity.CollabProxy.EditorTests.asmdef
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Tests\Editor\Unity.CollabProxy.EditorTests.asmdef.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.16\Tests\Editor\Unity.CollabProxy.EditorTests.asmdef.meta
+    projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.16\Tests\Editor\Unity.CollabProxy.EditorTests.asmdef.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\CHANGELOG.md
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\CHANGELOG.md
+    projectPath: Library\PackageCache\com.unity.purchasing@2.0.6\CHANGELOG.md
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\CHANGELOG.md.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\CHANGELOG.md.meta
+    projectPath: Library\PackageCache\com.unity.purchasing@2.0.6\CHANGELOG.md.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Documentation~\IAP.md
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Documentation~\IAP.md
+    projectPath: Library\PackageCache\com.unity.purchasing@2.0.6\Documentation~\IAP.md
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Documentation~\IAP.md.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Documentation~\IAP.md.meta
+    projectPath: Library\PackageCache\com.unity.purchasing@2.0.6\Documentation~\IAP.md.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Editor.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Editor.meta
+    projectPath: Library\PackageCache\com.unity.purchasing@2.0.6\Editor.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Editor\UnityEditor.Purchasing.dll.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Editor\UnityEditor.Purchasing.dll.meta
+    projectPath: Library\PackageCache\com.unity.purchasing@2.0.6\Editor\UnityEditor.Purchasing.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\License.md
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\License.md
+    projectPath: Library\PackageCache\com.unity.purchasing@2.0.6\License.md
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\License.md.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\License.md.meta
+    projectPath: Library\PackageCache\com.unity.purchasing@2.0.6\License.md.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\package.json
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\package.json
+    projectPath: Library\PackageCache\com.unity.purchasing@2.0.6\package.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\package.json.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\package.json.meta
+    projectPath: Library\PackageCache\com.unity.purchasing@2.0.6\package.json.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\README.md
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\README.md
+    projectPath: Library\PackageCache\com.unity.purchasing@2.0.6\README.md
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\README.md.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\README.md.meta
+    projectPath: Library\PackageCache\com.unity.purchasing@2.0.6\README.md.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Tests.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Tests.meta
+    projectPath: Library\PackageCache\com.unity.purchasing@2.0.6\Tests.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Tests\.tests.json
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Tests\.tests.json
+    projectPath: Library\PackageCache\com.unity.purchasing@2.0.6\Tests\.tests.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Tests\.tests.json.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Tests\.tests.json.meta
+    projectPath: Library\PackageCache\com.unity.purchasing@2.0.6\Tests\.tests.json.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Tests\Editor.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Tests\Editor.meta
+    projectPath: Library\PackageCache\com.unity.purchasing@2.0.6\Tests\Editor.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Tests\Editor\PurchasingEditorTest.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Tests\Editor\PurchasingEditorTest.cs
+    projectPath: Library\PackageCache\com.unity.purchasing@2.0.6\Tests\Editor\PurchasingEditorTest.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Tests\Editor\PurchasingEditorTest.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Tests\Editor\PurchasingEditorTest.cs.meta
+    projectPath: Library\PackageCache\com.unity.purchasing@2.0.6\Tests\Editor\PurchasingEditorTest.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Tests\Editor\Unity.IAP.purchasing.EditorTests.asmdef
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Tests\Editor\Unity.IAP.purchasing.EditorTests.asmdef
+    projectPath: Library\PackageCache\com.unity.purchasing@2.0.6\Tests\Editor\Unity.IAP.purchasing.EditorTests.asmdef
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Tests\Editor\Unity.IAP.purchasing.EditorTests.asmdef.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Tests\Editor\Unity.IAP.purchasing.EditorTests.asmdef.meta
+    projectPath: Library\PackageCache\com.unity.purchasing@2.0.6\Tests\Editor\Unity.IAP.purchasing.EditorTests.asmdef.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Tests\Runtime.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Tests\Runtime.meta
+    projectPath: Library\PackageCache\com.unity.purchasing@2.0.6\Tests\Runtime.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Tests\Runtime\PurchasingRuntimeTest.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Tests\Runtime\PurchasingRuntimeTest.cs
+    projectPath: Library\PackageCache\com.unity.purchasing@2.0.6\Tests\Runtime\PurchasingRuntimeTest.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Tests\Runtime\PurchasingRuntimeTest.cs.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Tests\Runtime\PurchasingRuntimeTest.cs.meta
+    projectPath: Library\PackageCache\com.unity.purchasing@2.0.6\Tests\Runtime\PurchasingRuntimeTest.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Tests\Runtime\Unity.IAP.purchasing.RunTimeTests.asmdef
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Tests\Runtime\Unity.IAP.purchasing.RunTimeTests.asmdef
+    projectPath: Library\PackageCache\com.unity.purchasing@2.0.6\Tests\Runtime\Unity.IAP.purchasing.RunTimeTests.asmdef
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Tests\Runtime\Unity.IAP.purchasing.RunTimeTests.asmdef.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\Tests\Runtime\Unity.IAP.purchasing.RunTimeTests.asmdef.meta
+    projectPath: Library\PackageCache\com.unity.purchasing@2.0.6\Tests\Runtime\Unity.IAP.purchasing.RunTimeTests.asmdef.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\UnityEngine.Purchasing.dll.meta
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.6\UnityEngine.Purchasing.dll.meta
+    projectPath: Library\PackageCache\com.unity.purchasing@2.0.6\UnityEngine.Purchasing.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\PackageCache\com.unity.textmeshpro@2.0.1\Scripts\Runtime\TMP_FontAsset.cs
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\PackageCache\com.unity.textmeshpro@2.0.1\Scripts\Runtime\TMP_FontAsset.cs
+    projectPath: Library\PackageCache\com.unity.textmeshpro@2.0.1\Scripts\Runtime\TMP_FontAsset.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\dixonzac000\Documents\GitHub\Game\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: New Unity Project\ProjectSettings\ProjectSettings.asset
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Temp\UnityTempFile-085439336e688d240817ef9a9a94ee81
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-085439336e688d240817ef9a9a94ee81
+    projectPath: Temp\UnityTempFile-085439336e688d240817ef9a9a94ee81
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Temp\UnityTempFile-0c63dd9743dc28449bb108591078082f
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-0c63dd9743dc28449bb108591078082f
+    projectPath: Temp\UnityTempFile-0c63dd9743dc28449bb108591078082f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Temp\UnityTempFile-0e380719b7e19af46a7431fe6168a506
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-0e380719b7e19af46a7431fe6168a506
+    projectPath: Temp\UnityTempFile-0e380719b7e19af46a7431fe6168a506
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Temp\UnityTempFile-0f5468231e624a94a93d0c487948edc8
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-0f5468231e624a94a93d0c487948edc8
+    projectPath: Temp\UnityTempFile-0f5468231e624a94a93d0c487948edc8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Temp\UnityTempFile-1bce12b21ee2ba14e96866b01d920b3d
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-1bce12b21ee2ba14e96866b01d920b3d
+    projectPath: Temp\UnityTempFile-1bce12b21ee2ba14e96866b01d920b3d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Temp\UnityTempFile-262da4b165db1154d91a1e7edd419cd4
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-262da4b165db1154d91a1e7edd419cd4
+    projectPath: Temp\UnityTempFile-262da4b165db1154d91a1e7edd419cd4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Temp\UnityTempFile-265bccf5072f96b449a9876ea1147048
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-265bccf5072f96b449a9876ea1147048
+    projectPath: Temp\UnityTempFile-265bccf5072f96b449a9876ea1147048
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Temp\UnityTempFile-338b3e18d8e0c53488fc5af7ef18e828
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-338b3e18d8e0c53488fc5af7ef18e828
+    projectPath: Temp\UnityTempFile-338b3e18d8e0c53488fc5af7ef18e828
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Temp\UnityTempFile-3f3f1d95d134b9a439bda3222cff0210
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-3f3f1d95d134b9a439bda3222cff0210
+    projectPath: Temp\UnityTempFile-3f3f1d95d134b9a439bda3222cff0210
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Temp\UnityTempFile-3f5b6964bfaa92048b4e86060a07793c
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-3f5b6964bfaa92048b4e86060a07793c
+    projectPath: Temp\UnityTempFile-3f5b6964bfaa92048b4e86060a07793c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Temp\UnityTempFile-5205b21c3a13d3b46a66907dedc95e2f
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-5205b21c3a13d3b46a66907dedc95e2f
+    projectPath: Temp\UnityTempFile-5205b21c3a13d3b46a66907dedc95e2f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Temp\UnityTempFile-528ec71ce09b3bc4c996b2c2b0feebc1
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-528ec71ce09b3bc4c996b2c2b0feebc1
+    projectPath: Temp\UnityTempFile-528ec71ce09b3bc4c996b2c2b0feebc1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Temp\UnityTempFile-5a7ebe921e602334aaf212d98a13a7a2
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-5a7ebe921e602334aaf212d98a13a7a2
+    projectPath: Temp\UnityTempFile-5a7ebe921e602334aaf212d98a13a7a2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Temp\UnityTempFile-627a3b500535cf44b93c6916c9e5a1d1
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-627a3b500535cf44b93c6916c9e5a1d1
+    projectPath: Temp\UnityTempFile-627a3b500535cf44b93c6916c9e5a1d1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Temp\UnityTempFile-63584e370161da94ab86ca2b1f5bcf1b
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-63584e370161da94ab86ca2b1f5bcf1b
+    projectPath: Temp\UnityTempFile-63584e370161da94ab86ca2b1f5bcf1b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Temp\UnityTempFile-6dbece886eb4d77479ca81817ea6d353
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-6dbece886eb4d77479ca81817ea6d353
+    projectPath: Temp\UnityTempFile-6dbece886eb4d77479ca81817ea6d353
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Temp\UnityTempFile-722c2c4a97173b84cbcfae06b366fea5
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-722c2c4a97173b84cbcfae06b366fea5
+    projectPath: Temp\UnityTempFile-722c2c4a97173b84cbcfae06b366fea5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Temp\UnityTempFile-7d999991572895d4a8ed74db87cf042c
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-7d999991572895d4a8ed74db87cf042c
+    projectPath: Temp\UnityTempFile-7d999991572895d4a8ed74db87cf042c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Temp\UnityTempFile-828c671601b63e54b844a97d5d89c0de
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-828c671601b63e54b844a97d5d89c0de
+    projectPath: Temp\UnityTempFile-828c671601b63e54b844a97d5d89c0de
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Temp\UnityTempFile-93d2e7f5935b3114a84a4fc5571ec748
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-93d2e7f5935b3114a84a4fc5571ec748
+    projectPath: Temp\UnityTempFile-93d2e7f5935b3114a84a4fc5571ec748
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Temp\UnityTempFile-9e9e30e129fc60f4aa37945d18f309f8
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-9e9e30e129fc60f4aa37945d18f309f8
+    projectPath: Temp\UnityTempFile-9e9e30e129fc60f4aa37945d18f309f8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Temp\UnityTempFile-a1d332093933ce44583368efee9d7fd5
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-a1d332093933ce44583368efee9d7fd5
+    projectPath: Temp\UnityTempFile-a1d332093933ce44583368efee9d7fd5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Temp\UnityTempFile-b28a5b7fb099cee40aca87ab537f3833
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-b28a5b7fb099cee40aca87ab537f3833
+    projectPath: Temp\UnityTempFile-b28a5b7fb099cee40aca87ab537f3833
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Temp\UnityTempFile-b39b9eb1dcee6bd47b63a58587b6a541
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-b39b9eb1dcee6bd47b63a58587b6a541
+    projectPath: Temp\UnityTempFile-b39b9eb1dcee6bd47b63a58587b6a541
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Temp\UnityTempFile-c759dc32441b9b74a9ad1e0d66a2fcb8
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-c759dc32441b9b74a9ad1e0d66a2fcb8
+    projectPath: Temp\UnityTempFile-c759dc32441b9b74a9ad1e0d66a2fcb8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Temp\UnityTempFile-ca1f23c3e7a033244a7be2a234cf4481
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-ca1f23c3e7a033244a7be2a234cf4481
+    projectPath: Temp\UnityTempFile-ca1f23c3e7a033244a7be2a234cf4481
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Temp\UnityTempFile-d5278a70940458049972c624967d02ed
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-d5278a70940458049972c624967d02ed
+    projectPath: Temp\UnityTempFile-d5278a70940458049972c624967d02ed
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Temp\UnityTempFile-e0533d716a2a228429e71d8bd6846d9d
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-e0533d716a2a228429e71d8bd6846d9d
+    projectPath: Temp\UnityTempFile-e0533d716a2a228429e71d8bd6846d9d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Temp\UnityTempFile-e75839313bf78cc44834b36d60545961
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-e75839313bf78cc44834b36d60545961
+    projectPath: Temp\UnityTempFile-e75839313bf78cc44834b36d60545961
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Temp\UnityTempFile-f0a991811f997004b9100aabca107015
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-f0a991811f997004b9100aabca107015
+    projectPath: Temp\UnityTempFile-f0a991811f997004b9100aabca107015
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: New Unity Project\Temp\UnityTempFile-f15e1e4e4c5cceb46b0dff200c520430
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-f15e1e4e4c5cceb46b0dff200c520430
+    projectPath: Temp\UnityTempFile-f15e1e4e4c5cceb46b0dff200c520430
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: New Unity Project\Temp\UnityTempFile-f96abecfc83f51e4e9fcba1d97641c99
+    fullPath: C:\Users\fletcben000\Documents\GitHub\Game\New Unity Project\Temp\UnityTempFile-f96abecfc83f51e4e9fcba1d97641c99
+    projectPath: Temp\UnityTempFile-f96abecfc83f51e4e9fcba1d97641c99
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
